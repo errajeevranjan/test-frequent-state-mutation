@@ -22,7 +22,7 @@ const CountCreator = () => {
 
 	return (
 		<div>
-			<h1>Counters updating in 1ms</h1>
+			<h1>Counter App </h1>
 		</div>
 	);
 };
